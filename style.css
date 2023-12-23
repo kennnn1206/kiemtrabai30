@@ -25,6 +25,7 @@ h2{
 .navigation{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .navigation a{
         text-decoration: none;
