@@ -518,6 +518,7 @@ footer{
 }
 .id-footer h2{
     text-align: end;
+    width: 340px;
 }
 .footer_link{
     background-color: white;
